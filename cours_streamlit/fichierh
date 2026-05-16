@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css"/>
+<title> Le titre qui apparaitra dans le navigateur </title>
+<meta charset="UTF-8">
+</head>
+
+<body>
+<h1> Premier fichier HTML de Jenny </h1>
+<p> Ici nous chercherons à réaliser la première quête</p>
+<h2> Déroulé de la quête </h2>
+<p> Beaucoup de choses à faire et pas beaucoup de temps finalement </p> 
+<a href= "http://www.wildcodeschool.com"> Voici le lien </a>
+<img src="C:\Users\jenny\OneDrive\Documents\Dossier HTML\im.jpg"width=50% height=50%/>
+</body> 
+</html>
